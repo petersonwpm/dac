@@ -27,4 +27,4 @@ with Diagram("Web Service", show=False):
 ```
 
 
-
+![diagram](./web_service.png)

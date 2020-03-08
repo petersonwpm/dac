@@ -11,7 +11,7 @@ pip install --user diagrams
 
 # Build
 ```
-python mycode.py
+python diagram.py
 ```
 
 # Example from [Diagrams](https://diagrams.mingrammer.com/)
